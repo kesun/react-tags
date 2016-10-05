@@ -1,7 +1,7 @@
 {
-  "name": "react-tag-autocomplete",
-  "version": "5.0.3",
-  "description": "React Tag Autocomplete is a simple tagging component ready to drop in your React projects.",
+  "name": "monkey-tags",
+  "version": "1.0",
+  "description": "Custom version of react tags autocomplete",
   "main": "dist-es5/ReactTags.js",
   "jsnext:main": "dist-es6/ReactTags.js",
   "scripts": {
@@ -34,10 +34,11 @@
   "contributors": [
     "Prakhar Srivastav",
     "Matt Hinchliffe",
-    "Simon Hötten"
+    "Simon Hötten",
+    "Ke Sun"
   ],
   "license": "MIT",
-  "repository": "https://github.com/i-like-robots/react-tags",
+  "repository": "https://github.com/kesun/react-tags",
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "react-dom": "^0.14.0 || ^15.0.0"
