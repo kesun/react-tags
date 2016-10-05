@@ -1,3 +1,4 @@
-# React Tag Autocomplete (monkey version)
+# Monkey Tag Autocomplete
+## React Tag Autocomplete (monkey version)
 
 Custom version of the React Tag Autocomplete
